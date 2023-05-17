@@ -1,0 +1,50 @@
+{
+  "name": "gpt4-playground",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "format": "prettier --write src/**/*.{js,jsx,ts,tsx}"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.13",
+    "@types/node": "18.15.10",
+    "@types/react": "18.0.30",
+    "@types/react-dom": "18.0.11",
+    "@vercel/analytics": "^0.1.11",
+    "eslint": "8.36.0",
+    "eslint-config-next": "13.2.4",
+    "eventsource-parser": "^1.0.0",
+    "next": "13.2.4",
+    "openai": "^3.2.1",
+    "parse-numeric-range": "^1.3.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.8.0",
+    "react-markdown": "^8.0.6",
+    "react-mathjax": "^1.0.1",
+    "react-secure-storage": "^1.2.0",
+    "react-slider": "^2.0.4",
+    "react-syntax-highlighter": "^15.5.0",
+    "rehype-katex": "^6.0.2",
+    "remark-math": "^5.1.1",
+    "typescript": "5.0.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.9",
+    "@types/react-mathjax": "^1.0.1",
+    "@types/react-slider": "^1.3.1",
+    "@types/react-syntax-highlighter": "^15.5.6",
+    "@types/uuid": "^9.0.1",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "prettier": "^2.8.7",
+    "prettier-plugin-tailwindcss": "^0.2.5",
+    "tailwind-scrollbar": "^3.0.0",
+    "tailwindcss": "^3.3.0"
+  }
+}
