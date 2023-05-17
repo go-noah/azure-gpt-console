@@ -1,7 +1,13 @@
 
 # Azure Private GPT Playground
 
-origin repo https://github.com/Nashex/gpt4-playground 
+
+<img width="1179" alt="스크린샷 2023-05-17 오후 10 53 23" src="https://github.com/go-noah/azure-gpt-console/assets/69115576/3e611a53-f227-476a-80a7-46be90475729">
+
+
+
+### https://github.com/Nashex/gpt4-playground 
+#### I modified the code in the original repo a bit.
 
 
 ```bash
